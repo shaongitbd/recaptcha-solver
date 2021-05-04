@@ -1,5 +1,5 @@
 # Recaptcha-solver
-# recapthca-solver
+
 A simple plugable recaptcha solver. You can use this script with your selenium script.
 
 
