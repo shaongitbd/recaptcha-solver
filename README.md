@@ -1,12 +1,12 @@
 # Recaptcha-solver
 
-A simple plugable recaptcha solver. You can use this script with your selenium script.
+A simple pluggable recaptcha solver. You can use this script with your selenium script.
 
 
 
 How to use? 
 
-Sinup for idm cloud
+Singup for IBM cloud
 Then go here https://cloud.ibm.com/catalog/services/speech-to-text and hit create 
 
 You Will get a Api key and url address like follwing
