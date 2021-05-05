@@ -3,6 +3,12 @@
 A simple pluggable recaptcha solver. You can use this script with your selenium script.
 
 
+Install required packages 
+
+```python
+pip install -r requirements.txt
+```
+
 
 How to use? 
 
